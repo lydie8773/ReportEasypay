@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ReportEasypay:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SpringMVCHibernateWithSpringSecurityExample.war">
+      <element id="artifact" artifact-name="ReportEasypay:war exploded" />
+    </root>
+  </artifact>
+</component>
